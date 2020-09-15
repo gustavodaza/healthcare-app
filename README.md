@@ -1,24 +1,25 @@
-# README
+# Healthcare Web App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Ruby version: 2.6.3
 
-Things you may want to cover:
+* Rails version: 5.2.4
 
-* Ruby version
+### What it does?
 
-* System dependencies
+Offers the following features:
 
-* Configuration
+- Appointment Scheduling
+- Instant Message App
+- Healthcare Record of the Patient
+- Patient Files
+- Dashboard
 
-* Database creation
+## How Can I Start?
 
-* Database initialization
+On root folder run
 
-* How to run the test suite
+<pre>bundle install</pre>
 
-* Services (job queues, cache servers, search engines, etc.)
+then
 
-* Deployment instructions
-
-* ...
+<pre>rails s</pre>
